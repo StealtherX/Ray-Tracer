@@ -1,0 +1,12 @@
+Ray Tracer by Kevin Jacobs
+
+This program uses ray tracing to render a scene of spheres and infinite planes. It only uses OpenGL to render a buffer of pixels to the screen. Use the included data.3d file to render a sample scene.
+
+System Requirements:
+
+    Tested on Ubuntu 10.10 and 11.04
+    Graphics card with OpenGL
+    QT SDK
+    GLUT
+
+Compile using QT Creator and then run the executable.
